@@ -1,2 +1,2 @@
-# Licenta_2020_BoardGame_Skills-Race
+# Licenta_2022_BoardGame_Skills-Race
 my diploma Unity project
